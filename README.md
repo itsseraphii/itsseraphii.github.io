@@ -4,19 +4,15 @@ I'll update this page with what I'm working on these days, or I'll forget about 
 
 ### What I'm working on these days
 
-Working @ [Bloc.Solutions](https://bloc.solutions/) as a developper. 
-
-Also full time student at the Laval University, Bachelor's Degree in Computer Science.
+Working for Accesso Paradox as a web developper, 
+also full time student at Université de Sherbrooke in Electrical Engineering
 
 ### [Site web du moment™](https://matias.ma/nsfw/)
 ### [Other interesting link](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
-
 ## Current list of projects I don't have time to work on / Random ideas
 
-
-- Raspberry Pi to process landline phone
 - Learn Jekyll/GitHub Pages to make cool pages for free for projects
 - Remake [Pause Ahead by Askiisoft](http://askiisoft.com/games/pause-ahead/) so that its not stranded in Flash
 
